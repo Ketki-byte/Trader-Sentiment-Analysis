@@ -1,0 +1,4 @@
+Classification,closedPnL_mean,closedPnL_std,leverage_mean,trade_size_mean
+Fear,-50.2,120.5,2.1,15000.0
+Greed,75.3,95.2,1.8,18000.0
+Neutral,10.1,110.0,2.0,16000.0
